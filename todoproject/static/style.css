@@ -1,0 +1,15 @@
+.banner{
+    background-color:pink;
+    width:100%;
+    height:200px;
+    margin-bottom:50px;
+}
+.banner-text{
+    top:10%;
+    left:50%;
+    position:absolute;
+    font-family:Georgia  ;
+
+
+
+}
